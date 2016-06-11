@@ -4,7 +4,7 @@
 
 ### [Currículo en el DOCV Orden 36/2012](legislacion/2012_6644.pdf)
 
-### [Horario](legislacion/inflasioe3h.pdf)
+### [Horario](legislacion/infasiloe3h.pdf)
 
 ### [Relación de materiales para el ciclo](legislacion/GS_ADMIN_SIST_INF_RED.pdf)
 
