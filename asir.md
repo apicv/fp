@@ -6,4 +6,6 @@
 
 ### [Horario](legislacion/inflasioe3h.pdf)
 
+### [Relación de materiales para el ciclo](legislacion/GS_ADMIN_SIST_INF_RED.pdf)
+
 ### [Centros de la Comunidad Valenciana donde se imparte](http://www.ceice.gva.es/web/centros-docentes/formacion-profesional/familias-profesionales/consulta?fam=190)
