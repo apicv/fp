@@ -19,3 +19,5 @@ Familia Profesional de Informática y Comunicaciones
 ### [T.S. Desarrollo de Aplicaciones Multiplataforma (LOE)](dam.md)
 
 ### [T.S. Desarrollo de Aplicaciones Web (LOE)](daw.md)
+
+## [Portal de FP en la Conselleria](http://www.ceice.gva.es/web/formacion-profesional/)
