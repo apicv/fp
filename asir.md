@@ -108,12 +108,6 @@ Los objetivos generales de este ciclo formativo son los siguientes:
 
 ### Módulos profesionales.
 
-1. Los módulos profesionales de este ciclo formativo:
-
-a) Quedan desarrollados en el anexo I del presente real decreto, cumpliendo lo previsto en el artículo 14 del Real Decreto 1538/2006, de 15 de diciembre.
-
-b) Son los que a continuación se relacionan:
-
 [0369 Implantación de sistemas operativos](0369/index.md)
 
 [0370 Planificación y administración de redes](0370/index.md)
