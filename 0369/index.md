@@ -47,40 +47,41 @@
 
 4. Centraliza la información en servidores administrando estructuras de dominios y analizando sus ventajas.
 
-Criterios de evaluación:
+  Criterios de evaluación:
 
-a) Se han implementado dominios.
-b) Se han administrado cuentas de usuario y cuentas de equipo.
-c) Se ha centralizado la información personal de los usuarios del dominio mediante el uso de perfiles móviles y carpetas personales.
-d) Se han creado y administrado grupos de seguridad.
-e) Se han creado plantillas que faciliten la administración de usuarios con características similares.
-f) Se han organizado los objetos del dominio para facilitar su administración.
-g) Se han utilizado máquinas virtuales para administrar dominios y verificar su funcionamiento.
-h) Se ha documentado la estructura del dominio y las tareas realizadas.
+    1. Se han implementado dominios.
+    2. Se han administrado cuentas de usuario y cuentas de equipo.
+    3. Se ha centralizado la información personal de los usuarios del dominio mediante el uso de perfiles móviles y carpetas personales.
+    4. Se han creado y administrado grupos de seguridad.
+    5. Se han creado plantillas que faciliten la administración de usuarios con características similares.
+    6. Se han organizado los objetos del dominio para facilitar su administración.
+    7. Se han utilizado máquinas virtuales para administrar dominios y verificar su funcionamiento.
+    8. Se ha documentado la estructura del dominio y las tareas realizadas.
 
 5. Administra el acceso a dominios analizando y respetando requerimientos de seguridad.
 
-Criterios de evaluación:
+  Criterios de evaluación:
 
-a) Se han incorporado equipos al dominio.
-b) Se han previsto bloqueos de accesos no autorizados al dominio.
-c) Se ha administrado el acceso a recursos locales y recursos de red.
-d) Se han tenido en cuenta los requerimientos de seguridad.
-e) Se han implementado y verificado directivas de grupo.
-f) Se han asignado directivas de grupo.
-g) Se han documentado las tareas y las incidencias.
+    a) Se han incorporado equipos al dominio.
+    b) Se han previsto bloqueos de accesos no autorizados al dominio.
+    c) Se ha administrado el acceso a recursos locales y recursos de red.
+    d) Se han tenido en cuenta los requerimientos de seguridad.
+    e) Se han implementado y verificado directivas de grupo.
+    f) Se han asignado directivas de grupo.
+    g) Se han documentado las tareas y las incidencias.
 
 6. Detecta problemas de rendimiento, monitorizando el sistema con las herramientas adecuadas y documentando el procedimiento.
 
-Criterios de evaluación:
-a) Se han identificado los objetos monitorizables en un sistema informático.
-b) Se han identificado los tipos de sucesos.
-c) Se han utilizado herramientas de monitorización en tiempo real.
-d) Se ha monitorizado el rendimiento mediante registros de contador y de seguimiento del sistema.
-e) Se han planificado y configurado alertas de rendimiento.
-f) Se han interpretado los registros de rendimiento almacenados.
-g) Se ha analizado el sistema mediante técnicas de simulación para optimizar el rendimiento.
-h) Se ha elaborado documentación de soporte y de incidencias.
+  Criterios de evaluación:
+
+    a) Se han identificado los objetos monitorizables en un sistema informático.
+    b) Se han identificado los tipos de sucesos.
+    c) Se han utilizado herramientas de monitorización en tiempo real.
+    d) Se ha monitorizado el rendimiento mediante registros de contador y de seguimiento del sistema.
+    e) Se han planificado y configurado alertas de rendimiento.
+    f) Se han interpretado los registros de rendimiento almacenados.
+    g) Se ha analizado el sistema mediante técnicas de simulación para optimizar el rendimiento.
+    h) Se ha elaborado documentación de soporte y de incidencias.
 
 7. Audita la utilización y acceso a recursos, identificando y respetando las necesidades de seguridad del sistema.
 
