@@ -10,14 +10,14 @@
 
   Criterios de evaluación:
   
-    a) Se han identificado los elementos funcionales de un sistema informático.
-    b) Se han identificado las características, funciones y arquitectura de un sistema operativo.
-    c) Se han comparado diferentes sistemas operativos, sus versiones y licencias de uso, en función de sus requisitos, características y campos de aplicación.
-    d) Se han realizado instalaciones de diferentes sistemas operativos.
-    e) Se han previsto y aplicado técnicas de actualización y recuperación del sistema.
-    f) Se han solucionado incidencias del sistema y del proceso de inicio.
-    g) Se han utilizado herramientas para conocer el software instalado en el sistema y su origen.
-    h) Se ha elaborado documentación de soporte relativa a las instalaciones efectuadas y a las incidencias detectadas.
+    1. Se han identificado los elementos funcionales de un sistema informático.
+    2. Se han identificado las características, funciones y arquitectura de un sistema operativo.
+    3. Se han comparado diferentes sistemas operativos, sus versiones y licencias de uso, en función de sus requisitos, características y campos de aplicación.
+    4. Se han realizado instalaciones de diferentes sistemas operativos.
+    5. Se han previsto y aplicado técnicas de actualización y recuperación del sistema.
+    6. Se han solucionado incidencias del sistema y del proceso de inicio.
+    7. Se han utilizado herramientas para conocer el software instalado en el sistema y su origen.
+    8. Se ha elaborado documentación de soporte relativa a las instalaciones efectuadas y a las incidencias detectadas.
   
 2. Configura el software de base, analizando las necesidades de explotación del sistema informático.
 
