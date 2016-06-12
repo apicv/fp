@@ -23,46 +23,39 @@
 
   Criterios de evaluación:
   
-    a) Se han planificado, creado y configurado cuentas de usuario, grupos, perfiles y políticas de contraseñas locales.
-    b) Se ha asegurado el acceso al sistema mediante el uso de directivas de cuenta y directivas de contraseñas.
-    c) Se ha actuado sobre los servicios y procesos en función de las necesidades del sistema.
-    d) Se han instalado, configurado y verificado protocolos de red.
-    e) Se han analizado y configurado los diferentes métodos de resolución de nombres.
-    f) Se ha optimizado el uso de los sistemas operativos para sistemas portátiles.
-    g) Se han utilizado máquinas virtuales para realizar tareas de configuración de sistemas operativos y analizar sus resultados.
-    h) Se han documentado las tareas de configuración del software de base.
+    1. Se han planificado, creado y configurado cuentas de usuario, grupos, perfiles y políticas de contraseñas locales.
+    2. Se ha asegurado el acceso al sistema mediante el uso de directivas de cuenta y directivas de contraseñas.
+    3. Se ha actuado sobre los servicios y procesos en función de las necesidades del sistema.
+    4. Se han instalado, configurado y verificado protocolos de red.
+    5. Se han analizado y configurado los diferentes métodos de resolución de nombres.
+    6. Se ha optimizado el uso de los sistemas operativos para sistemas portátiles.
+    7. Se han utilizado máquinas virtuales para realizar tareas de configuración de sistemas operativos y analizar sus resultados.
+    8. Se han documentado las tareas de configuración del software de base.
 
 3. Asegura la información del sistema, describiendo los procedimientos y utilizando copias de seguridad y sistemas tolerantes a fallos.
 
   Criterios de evaluación:
   
-    a) Se han comparado diversos sistemas de archivos y analizado sus diferencias y ventajas de implementación. 
-    b) Se ha descrito la estructura de directorios del sistema operativo.
-    c) Se han identificado los directorios contenedores de los archivos de configuración del sistema (binarios, órdenes y librerías). 
-    d) Se han utilizado herramientas de administración de discos para crear particiones, unidades lógicas, volúmenes simples y volúmenes distribuidos.
-    e) Se han implantado sistemas de almacenamiento redundante (RAID).
-    f) Se han implementado y automatizado planes de copias de seguridad.
-    g) Se han administrado cuotas de disco.
-    h) Se han documentado las operaciones realizadas y los métodos a seguir para la recuperación ante desastres.
+    1. Se han comparado diversos sistemas de archivos y analizado sus diferencias y ventajas de implementación. 
+    2. Se ha descrito la estructura de directorios del sistema operativo.
+    3. Se han identificado los directorios contenedores de los archivos de configuración del sistema (binarios, órdenes y librerías). 
+    4. Se han utilizado herramientas de administración de discos para crear particiones, unidades lógicas, volúmenes simples y volúmenes distribuidos.
+    5. Se han implantado sistemas de almacenamiento redundante (RAID).
+    6. Se han implementado y automatizado planes de copias de seguridad.
+    7. Se han administrado cuotas de disco.
+    8. Se han documentado las operaciones realizadas y los métodos a seguir para la recuperación ante desastres.
 
 4. Centraliza la información en servidores administrando estructuras de dominios y analizando sus ventajas.
 
 Criterios de evaluación:
 
 a) Se han implementado dominios.
-
 b) Se han administrado cuentas de usuario y cuentas de equipo.
-
 c) Se ha centralizado la información personal de los usuarios del dominio mediante el uso de perfiles móviles y carpetas personales.
-
 d) Se han creado y administrado grupos de seguridad.
-
 e) Se han creado plantillas que faciliten la administración de usuarios con características similares.
-
 f) Se han organizado los objetos del dominio para facilitar su administración.
-
 g) Se han utilizado máquinas virtuales para administrar dominios y verificar su funcionamiento.
-
 h) Se ha documentado la estructura del dominio y las tareas realizadas.
 
 5. Administra el acceso a dominios analizando y respetando requerimientos de seguridad.
@@ -70,57 +63,35 @@ h) Se ha documentado la estructura del dominio y las tareas realizadas.
 Criterios de evaluación:
 
 a) Se han incorporado equipos al dominio.
-
 b) Se han previsto bloqueos de accesos no autorizados al dominio.
-
 c) Se ha administrado el acceso a recursos locales y recursos de red.
-
 d) Se han tenido en cuenta los requerimientos de seguridad.
-
 e) Se han implementado y verificado directivas de grupo.
-
 f) Se han asignado directivas de grupo.
-
 g) Se han documentado las tareas y las incidencias.
 
 6. Detecta problemas de rendimiento, monitorizando el sistema con las herramientas adecuadas y documentando el procedimiento.
 
 Criterios de evaluación:
-
 a) Se han identificado los objetos monitorizables en un sistema informático.
-
 b) Se han identificado los tipos de sucesos.
-
 c) Se han utilizado herramientas de monitorización en tiempo real.
-
 d) Se ha monitorizado el rendimiento mediante registros de contador y de seguimiento del sistema.
-
 e) Se han planificado y configurado alertas de rendimiento.
-
 f) Se han interpretado los registros de rendimiento almacenados.
-
 g) Se ha analizado el sistema mediante técnicas de simulación para optimizar el rendimiento.
-
 h) Se ha elaborado documentación de soporte y de incidencias.
 
 7. Audita la utilización y acceso a recursos, identificando y respetando las necesidades de seguridad del sistema.
 
 Criterios de evaluación:
-
 a) Se han administrado derechos de usuario y directivas de seguridad.
-
 b) Se han identificado los objetos y sucesos auditables.
-
 c) Se ha elaborado un plan de auditorías.
-
 d) Se han identificado las repercusiones de las auditorías en el rendimiento del sistema.
-
 e) Se han auditado sucesos correctos y erróneos.
-
 f) Se han auditado los intentos de acceso y los accesos a recursos del sistema.
-
 g) Se han gestionado los registros de auditoría.
-
 h) Se ha documentado el proceso de auditoría y sus resultados.
 
 8. Implanta software específico con estructura cliente/servidor dando respuesta a los requisitos funcionales. 
@@ -128,19 +99,12 @@ h) Se ha documentado el proceso de auditoría y sus resultados.
 Criterios de evaluación:
 
 a) Se ha instalado software específico según la documentación técnica.
-
 b) Se han realizado instalaciones desatendidas.
-
 c) Se ha configurado y utilizado un servidor de actualizaciones.
-
 d) Se han planificado protocolos de actuación para resolver incidencias.
-
 e) Se han seguido los protocolos de actuación para resolver incidencias.
-
 f) Se ha dado asistencia técnica a través de la red documentando las incidencias.
-
 g) Se han elaborado guías visuales y manuales para instruir en el uso de sistemas operativos o aplicaciones.
-
 h) Se han documentado las tareas realizadas.
 
 Duración: 140 horas.
@@ -150,31 +114,18 @@ Contenidos básicos:
 Instalación de software libre y propietario:
 
 − Estructura de un sistema informático.
-
 − Arquitectura de un sistema operativo.
-
 − Funciones de un sistema operativo.
-
 − Tipos de sistemas operativos.
-
 − Tipos de aplicaciones.
-
 − Licencias y tipos de licencias.
-
 − Gestores de arranque.
-
 − Consideraciones previas a la instalación de sistemas operativos libres y propietarios.
-
 − Instalación de sistemas operativos. Requisitos, versiones y licencias.
-
 − Instalación/desinstalación de aplicaciones. Requisitos, versiones y licencias.
-
 − Actualización de sistemas operativos y aplicaciones.
-
 − Ficheros de inicio de sistemas operativos.
-
 − Registro del sistema.
-
 − Actualización y mantenimiento de controladores de dispositivos.
 
 Administración de software de base:
