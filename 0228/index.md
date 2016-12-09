@@ -1,5 +1,5 @@
 # Aplicaciones web (0228) - [SMR](../smr.md)
 
-Recursos Educativos Abiertos
+### Recursos Educativos Abiertos
 
 * [WebAppsProject](http://cristiangarcia.org/WebAppsProject/)
